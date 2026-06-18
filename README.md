@@ -12,40 +12,35 @@ I'm **Dineth Hitihamu** — a Software Engineering graduate focused on building 
 
 ### 🛠️ Tech Stack
 
-**Languages**
+#### Languages
+Python, JavaScript, PHP, C#, Java, Dart, SQL
 
-Python • JavaScript • PHP • C# • Java • Dart • SQL
+#### Cloud & Infrastructure
+Google Cloud Platform (GCP), Firebase, REST APIs, CI/CD Pipelines, GKE, Cloud Run
 
-**Cloud & Infrastructure**
+#### AI / ML
+Gemini API, Vertex AI, Multimodal RAG, Prompt Engineering, Vector Search, LLM Orchestration
 
-Google Cloud Platform (GCP) • Firebase • REST APIs • CI/CD Pipelines • GKE • Cloud Run
+#### Databases
+MySQL, Microsoft SQL Server, MongoDB Atlas, Database Normalization, Database Architecture
 
-**AI / ML**
-
-Gemini API • Vertex AI • Multimodal RAG • Prompt Engineering • Vector Search • LLM Orchestration
-
-**Databases**
-
-MySQL • Microsoft SQL Server • MongoDB Atlas • Database Normalization • Database Architecture
-
-**Frameworks & Tools**
-
-Flutter • Bootstrap • Git/GitHub • VS Code • XAMPP • Figma
+#### Frameworks & Tools
+Flutter, Bootstrap, Git/GitHub, VS Code, XAMPP, Figma
 
 ### 📁 Featured Projects
 
 #### Kandiv.lk — AI-Powered Educational Platform
-Designed and deployed a live educational website integrating the Gemini API via RESTful services to provide automated text summarization and smart search functionality.
+A live educational website that integrates the Gemini API through RESTful services to deliver automated text summarization and intelligent search capabilities.
 
 **Tech Stack:** PHP • JavaScript • HTML5 • CSS3 • Gemini API
 
-#### Enterprise POS (Point of Sale) System
-Architected a web-based POS system for retail inventory management and real-time transaction processing, with a highly structured and normalized MySQL database for integrity and faster reporting.
+#### Enterprise POS System
+A web-based point-of-sale solution for retail inventory management and real-time transaction processing, designed with a normalized MySQL database for data integrity and efficient reporting.
 
 **Tech Stack:** PHP • MySQL • VS Code
 
 #### Cross-Platform Health & Productivity Assistant
-Engineered a mobile application that combines workflow productivity tracking with health monitoring metrics, with secure authentication and real-time cloud synchronization.
+A mobile application that combines productivity tracking with health monitoring features, offering secure authentication and real-time cloud synchronization.
 
 **Tech Stack:** Flutter • Dart • Firebase Auth • Cloud Firestore
 
@@ -53,7 +48,7 @@ Engineered a mobile application that combines workflow productivity tracking wit
 
 - Google Cloud Certified: **Associate Cloud Engineer (ACE)**
 - Microsoft Certified: **Fabric Data Engineer Associate**
-- Professional Certificates: **Advanced Data Analytics**, **Agile Essentials**, **AI**, **AI Essentials**, **Business Intelligence**, **Cybersecurity**, **Data Analytics**, **IT Automation with Python**, **IT Support**, **Project Management**, **Prompting Essentials**, **UX Design**
+- Professional Certificates: **Advanced Data Analytics**, **Agile Essentials**, **AI**, **AI Essentials**, **Business Intelligence**, **Cybersecurity**, **Data Analytics**, **IT Automation with Python**
 - MongoDB Credentials: **MongoDB Atlas Administrator** and **MongoDB Database Administrator**
 
 ### 🌱 Currently Exploring
