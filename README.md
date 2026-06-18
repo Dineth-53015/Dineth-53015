@@ -4,7 +4,7 @@ I'm **Dineth Hitihamu** — a Software Engineering graduate focused on building 
 
 ### 🚀 About Me
 
-- 🎓 **Education:** First Class BSc (Hons) Computing Science (Software Engineering) graduate from **Kingston University (UK)** and Distinction holder for an **HND in IT** from **ESOFT Metro Campus**.
+- 🎓 **Education:** First Class BSc (Hons) Computing Science (Software Engineering) graduate from **Kingston University (UK)** and Distinction holder for an **HND in IT** from **ESOFT Metro Campus**[...]
 - ☁️ **Cloud Credentials:** Google Cloud **Associate Cloud Engineer** and **Microsoft Fabric Data Engineer Associate**.
 - 🤖 **AI Enthusiast:** Strong interest in **LLM orchestration, RAG, multimodal AI, prompt engineering, and vector search**.
 - 📊 **Learning Mindset:** Holding **90+ Google Cloud skill badges** and **20+ MongoDB badges** across GenAI, MLOps, and data architecture topics.
@@ -16,7 +16,7 @@ I'm **Dineth Hitihamu** — a Software Engineering graduate focused on building 
 
 Python • JavaScript • PHP • C# • Java • Dart • SQL
 
-**Cloud & Infra**
+**Cloud & Infrastructure**
 
 Google Cloud Platform (GCP) • Firebase • REST APIs • CI/CD Pipelines • GKE • Cloud Run
 
@@ -53,8 +53,8 @@ Engineered a mobile application that combines workflow productivity tracking wit
 
 - Google Cloud Certified: **Associate Cloud Engineer (ACE)**
 - Microsoft Certified: **Fabric Data Engineer Associate**
-- Professional Certificates: **Google Cybersecurity**, **Data Analytics**, **Business Intelligence**, and **AI Essentials**
-- MongoDB Credentials: **Atlas Database Administrator** and **AI-Powered Vector Search Specialty**
+- Professional Certificates: **Advanced Data Analytics**, **Agile Essentials**, **AI**, **AI Essentials**, **Business Intelligence**, **Cybersecurity**, **Data Analytics**, **IT Automation with Python**, **IT Support**, **Project Management**, **Prompting Essentials**, **UX Design**
+- MongoDB Credentials: **MongoDB Atlas Administrator** and **MongoDB Database Administrator**
 
 ### 🌱 Currently Exploring
 
