@@ -4,7 +4,7 @@ I'm **Dineth Hitihamu** — a Software Engineering graduate focused on building 
 
 ### 🚀 About Me
 
-- 🎓 **Education:** First Class BSc (Hons) Computing Science (Software Engineering) graduate from **Kingston University (UK)** and Distinction holder for an **HND in IT** from **ESOFT Metro Campus**.
+- 🎓 **Education:** First Class BSc (Hons) Computing Science (Software Engineering) graduate from **Kingston University (UK)** and Distinction holder for an **HND in IT** from **Pearson**.
 - ☁️ **Cloud Credentials:** Google Cloud **Associate Cloud Engineer** and **Microsoft Fabric Data Engineer Associate**.
 - 🤖 **AI Enthusiast:** Strong interest in **LLM orchestration, RAG, multimodal AI, prompt engineering, and vector search**.
 - 📊 **Learning Mindset:** Holding **90+ Google Cloud skill badges** and **20+ MongoDB badges** across GenAI, MLOps, and data architecture topics.
